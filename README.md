@@ -4,7 +4,7 @@ The core idea
 A worker could report:
 “The machine near section B is making an unusual noise and there is an oil leak.”
 Instead of simply answering, the system coordinates several agents:
-                         Worker
+``                       Worker
                            │
                            ▼
                  ┌──────────────────┐
@@ -37,7 +37,7 @@ Instead of simply answering, the system coordinates several agents:
           Human approval       Low-risk
                 │              automation
                 ▼                  │
-        Safety supervisor       Notification
+        Safety supervisor       Notification``
 Why this is a great WSO2 project
 It gives you a real reason for having multiple agents.
 For example:
